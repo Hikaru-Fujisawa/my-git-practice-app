@@ -1,0 +1,3 @@
+﻿run_id,実行日時_WIB,対象期間,取得元,データ取得元URL,取得条件,期待件数,取得件数,欠損値,エラー,実行結果,備考
+20261022-013734,2026-10-22T01:37:34+07:00,7D,Shopee Affiliate - Produk Trending（販売増加）,https://affiliate.shopee.co.id/,全カテゴリー / 全価格帯 / チャネル: すべて,30,0,,Shopee Affiliate 未ログイン（/api/v3/user/profile → code 30001 'no login'）。Open API も AppID/Secret 未設定（error 10020 Invalid Authorization Header）。認証回避は行わず取得を中止,FAILED,架空データでの補完なし
+20261022-013734,2026-10-22T01:37:34+07:00,30D,Shopee Affiliate - Produk Terlaris（販売数量）,https://affiliate.shopee.co.id/,全カテゴリー / 全価格帯 / チャネル: すべて,30,0,,Shopee Affiliate 未ログイン（/api/v3/user/profile → code 30001 'no login'）。Open API も AppID/Secret 未設定（error 10020 Invalid Authorization Header）。認証回避は行わず取得を中止,FAILED,架空データでの補完なし

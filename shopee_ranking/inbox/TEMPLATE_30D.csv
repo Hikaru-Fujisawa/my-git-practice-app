@@ -1,0 +1,7 @@
+#source: affiliate_terlaris
+#period: 30D
+#captured_at_wib: 2026-10-22T09:00:00+07:00
+#source_url: https://affiliate.shopee.co.id/offer/product_offer
+#conditions: Produk Terlaris / 全カテゴリー / 全価格帯 / チャネル: Semua
+#shortfall_reason: 
+rank,product_name,product_name_ja,category,price_rp,sales_qty,sales_qty_scope,shop_name,product_url,item_id,shop_id,rating,review_count,export_potential,export_reason,notes
