@@ -1,0 +1,4 @@
+# Dedicated venv for long-video-to-shorts (free, local). Pinned: PyAV 16+ removed the
+# `metadata_errors` argument that faster-whisper 1.2.1 passes to av.open().
+faster-whisper==1.2.1
+av>=14,<16
